@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_type: MyString
+  item_id_ref: 1
+  item_name: MyString
+  item_description: MyText
+  can_sell: false
+  costliness: 1.5
+  level_requirement: 1
+
+two:
+  item_type: MyString
+  item_id_ref: 1
+  item_name: MyString
+  item_description: MyText
+  can_sell: false
+  costliness: 1.5
+  level_requirement: 1
